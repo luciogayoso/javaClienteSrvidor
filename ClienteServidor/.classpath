@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="asincronico"/>
+	<classpathentry kind="src" path="sincronico/ejemplo accept"/>
+	<classpathentry kind="src" path="sincronico/ejemplo send and recieved"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
